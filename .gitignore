@@ -1,10 +1,6 @@
-
-.ipynb_checkpoints/Exporteer een dataset naar Excel-checkpoint.ipynb
-.ipynb_checkpoints/2) Mappen van zibs en FHIR-checkpoint.ipynb
-.ipynb_checkpoints/1) Exporteer een dataset naar Excel-checkpoint.ipynb
-.ipynb_checkpoints/3) Snomed codes ophalen-checkpoint.ipynb
-.ipynb_checkpoints/test-checkpoint.py
-*.ipynb
+.ipynb_checkpoints/*.*
 .ipynb_checkpoints/LICENSE-checkpoint
 .ipynb_checkpoints/New Text Document-checkpoint.txt
 registratie_kernset.xlsx
+.ipynb_checkpoints/README-checkpoint.md
+dataset_perinatologie_31.xlsx
