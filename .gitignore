@@ -4,3 +4,7 @@
 .ipynb_checkpoints/1) Exporteer een dataset naar Excel-checkpoint.ipynb
 .ipynb_checkpoints/3) Snomed codes ophalen-checkpoint.ipynb
 .ipynb_checkpoints/test-checkpoint.py
+*.ipynb
+.ipynb_checkpoints/LICENSE-checkpoint
+.ipynb_checkpoints/New Text Document-checkpoint.txt
+registratie_kernset.xlsx
